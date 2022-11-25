@@ -1,0 +1,28 @@
+body {
+    background-color: #2E4E9D;
+    min-height: 100vh;
+}
+
+ .servicesing {
+    width: 200px;
+    height: 150px;
+    margin-left: 3rem;
+  } 
+
+.coming {
+    font-size: 8rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #FFC63A;
+    margin-left: 5rem;
+    margin-top: -.05rem;
+}
+
+.sentence {
+    font-size: 4rem;
+    font-family: sans-serif;
+    width: 50rem;
+    margin-left: 5rem;
+    margin-top: -2em;
+    color: white;
+}
